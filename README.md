@@ -3,7 +3,7 @@
 <img src="Data/Picture1.png" alt="Banner" width="500"/>
 
 ## Overview
-This repository contains files related to the exploration and comparison of State Space Models (SSMs) and ARIMA for financial forecasting. The aim is to evaluate the effectiveness of these models in capturing complex patterns and improving forecast accuracy.
+This repository contains files related to the exploration and comparison of State Space Models (SSMs) and ARIMA for financial forecasting using NIFTY 50 data. The aim is to evaluate the effectiveness of these models in capturing complex patterns and improving forecast accuracy.
 
 ## Technologies Used
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -28,7 +28,7 @@ The repository is organized as follows:
 - **Report.pdf**: Detailed report documenting the methodology, experiments, results, and conclusions of the project.
 
 ## Project Description
-This project aims to improve financial forecasting by leveraging the strengths of State Space Models (SSMs) and comparing their performance with traditional ARIMA models. The models are evaluated based on their ability to capture complex patterns and provide accurate forecasts.
+This project aims to improve financial forecasting by leveraging the strengths of State Space Models (SSMs) and comparing their performance with traditional ARIMA models. The models are evaluated based on their ability to capture complex patterns and provide accurate forecasts using NIFTY 50 data from Yahoo Finance.
 
 ## Motivation
 
@@ -40,7 +40,7 @@ SSMs are known for their flexibility in capturing dynamic patterns and seasonal 
 
 ## Methodology
 The project involves the following steps:
-1. **Data Collection**: Gathering financial data from sources like Yahoo Finance.
+1. **Data Collection**: Gathering NIFTY 50 financial data from Yahoo Finance.
 2. **Data Preprocessing**: Cleaning and preparing the data for model training.
 3. **Model Implementation**: Building and training State Space Models from scratch and ARIMA models.
 4. **Evaluation**: Assessing model performance using metrics such as Mean Absolute Percentage Error (MAPE) and Mean Squared Error (MSE).
@@ -59,7 +59,6 @@ The project involves the following steps:
 State Space Models show promise in improving the accuracy of financial forecasts when compared to ARIMA models. The project highlights the potential of SSMs to capture complex patterns in time series data.
 
 ## Contact
-For any questions or further information, please contact.
+For any questions or further information, please contact:
 
 Thank you for your interest in the project!
-
