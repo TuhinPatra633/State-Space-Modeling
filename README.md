@@ -1,6 +1,6 @@
 # State-Space-Modeling
 ## Exploring the Efficacy of State Space Models in Forecasting: A Comparative Study with ARIMA
-<img src="Data/Picture1.png" alt="Banner" width="500"/>
+<img src="stock-exchange.png" alt="Banner" width="500"/>
 
 ## Overview
 This repository contains files related to the exploration and comparison of State Space Models (SSMs) and ARIMA for financial forecasting using NIFTY 50 data. The aim is to evaluate the effectiveness of these models in capturing complex patterns and improving forecast accuracy.
