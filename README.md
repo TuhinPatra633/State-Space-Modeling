@@ -1,5 +1,5 @@
 # State-Space-Modeling
-Exploring the Efficacy of State Space Models in Forecasting: A Comparative Study with ARIMA
+## Exploring the Efficacy of State Space Models in Forecasting: A Comparative Study with ARIMA
 <img src="Data/Picture1.png" alt="Banner" width="500"/>
 
 ## Overview
@@ -21,11 +21,11 @@ This repository contains files related to the exploration and comparison of Stat
 The repository is organized as follows:
 
 ### 1. Notebooks
-- **statespacescratch.ipynb**: Implementation and experimentation with State Space Models from scratch, including data preprocessing, model building, and forecasting.
-- **statespacewitharima.ipynb**: Comparative analysis of State Space Models and ARIMA for financial forecasting.
+- **state_space_model_scratch.ipynb**: Implementation and experimentation with State Space Models from scratch, including data preprocessing, model building, and forecasting.
+- **State_Space_Model_With_ARIMA.ipynb**: Comparative analysis of State Space Models and ARIMA for financial forecasting.
 
 ### 2. Report
-- **report.pdf**: Detailed report documenting the methodology, experiments, results, and conclusions of the project.
+- **Report.pdf**: Detailed report documenting the methodology, experiments, results, and conclusions of the project.
 
 ## Project Description
 This project aims to improve financial forecasting by leveraging the strengths of State Space Models (SSMs) and comparing their performance with traditional ARIMA models. The models are evaluated based on their ability to capture complex patterns and provide accurate forecasts.
@@ -43,7 +43,7 @@ The project involves the following steps:
 1. **Data Collection**: Gathering financial data from sources like Yahoo Finance.
 2. **Data Preprocessing**: Cleaning and preparing the data for model training.
 3. **Model Implementation**: Building and training State Space Models from scratch and ARIMA models.
-4. **Evaluation**: Assessing model performance using metrics such as Mean Absolute Error (MAE) and Mean Squared Error (MSE).
+4. **Evaluation**: Assessing model performance using metrics such as Mean Absolute Percentage Error (MAPE) and Mean Squared Error (MSE).
 
 ## Results
 ### State Space Model from Scratch
@@ -59,9 +59,7 @@ The project involves the following steps:
 State Space Models show promise in improving the accuracy of financial forecasts when compared to ARIMA models. The project highlights the potential of SSMs to capture complex patterns in time series data.
 
 ## Contact
-For any questions or further information, please contact:
-- [Your Name]
-- [Your Email]
+For any questions or further information, please contact.
 
 Thank you for your interest in the project!
 
