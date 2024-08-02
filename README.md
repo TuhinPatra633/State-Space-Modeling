@@ -1,4 +1,4 @@
-# State-Space-Modeling
+# Nifty 50 Prediction Using State Space Model
 ## Exploring the Efficacy of State Space Models in Forecasting: A Comparative Study with ARIMA
 <img src="stock-exchange.jpg" alt="Banner" width="500"/>
 
